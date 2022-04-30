@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="150mm"
-   height="150mm"
-   viewBox="0 0 150 150"
+   width="170mm"
+   height="170mm"
+   viewBox="0 0 170 170"
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1.28"
-     inkscape:cx="321.875"
-     inkscape:cy="288.28125"
+     inkscape:zoom="0.64"
+     inkscape:cx="-37.5"
+     inkscape:cy="392.1875"
      inkscape:window-width="1920"
      inkscape:window-height="1007"
      inkscape:window-x="0"
@@ -38,14 +38,14 @@
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-30,-73.5)">
+     transform="translate(-20,-63.5)">
     <rect
-       style="fill:#007dff;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#007dff;fill-opacity:1;stroke:none;stroke-width:4.53333;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect123593"
-       width="150"
-       height="150"
-       x="30"
-       y="73.5" />
+       width="170"
+       height="170"
+       x="20"
+       y="63.5" />
     <g
        aria-label="IIitII"
        id="text1633"
